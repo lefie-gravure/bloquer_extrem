@@ -11,10 +11,15 @@ Il y a deux éléments :
 
 ## Vidéos de démonstration
 
-- 🎬 [Voir comment ça marche](fonction_blocage.mov) (`fonction_blocage.mov`)
-- 🎬 [Voir comment autoriser les pop-ups](autoriser_popups.mov) (`autoriser_popups.mov`)
+**Comment ça marche**
 
-> Sur GitHub, clique sur le lien puis sur **« View raw »** (ou l'icône de téléchargement) pour lire la vidéo.
+![Démonstration du blocage par lots](fonction_blocage.gif)
+
+**Comment autoriser les pop-ups**
+
+![Autoriser les pop-ups dans le navigateur](autoriser_popups.gif)
+
+> Versions en meilleure qualité : [fonction_blocage.mov](fonction_blocage.mov) · [autoriser_popups.mov](autoriser_popups.mov)
 
 ---
 
@@ -56,7 +61,7 @@ Sans ce réglage, le script ne se lance pas du tout.
 1. Dans **« Réseau »**, laisse **Instagram**.
 2. Dans **« Par lot »**, choisis combien de profils ouvrir à la fois (10 conseillé).
 3. Clique sur **« Ouvrir le lot suivant »**.
-4. **La première fois**, le navigateur bloque les fenêtres : clique sur l'icône qui apparaît à droite de la barre d'adresse, choisis **« Toujours autoriser les pop-ups »**, puis reclique sur le bouton. 🎬 [Vidéo : autoriser les pop-ups](autoriser_popups.mov)
+4. **La première fois**, le navigateur bloque les fenêtres : clique sur l'icône qui apparaît à droite de la barre d'adresse, choisis **« Toujours autoriser les pop-ups »**, puis reclique sur le bouton. ![Autoriser les pop-ups](autoriser_popups.gif)
 5. Les profils s'ouvrent dans des onglets. Sur chacun, un badge en haut à droite indique ce qui se passe :
    - **Vert « bloqué ✓ »** ou **« déjà bloqué ✓ »** : c'est fait, l'onglet se ferme tout seul.
    - **Rouge « échec, à faire à la main »** : le compte n'existe pas, a changé de nom, ou Instagram a modifié sa page. Bloque-le à la main ou passe au suivant.
